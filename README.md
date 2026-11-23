@@ -1,25 +1,17 @@
-# Make the AI Judge Laugh: Office Jokes
+# makefun-office-jokes
 
-- Competition: https://make.fun/c/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a
-- Planned GitHub repo (not created on GitHub yet, not pushed — VM has no GitHub login): https://github.com/skipsektestnet/makefun-office-jokes
-- Deadline: 2026-11-26T14:40Z (UTC)
-- Account: @brawijaya — wallet `9K6KA14C3Uck65pqVYtsH2T4KnuW4WpJyySNHd9Rk8Rh`
-- Reward: $5 total, free to enter
+[![make.fun · u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a](https://make.fun/badge/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a.svg)](https://make.fun/bounty/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a?utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
+[![rank](https://make.fun/badge/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/skipsektestnet/makefun-office-jokes/rank.svg)](https://make.fun/bounty/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
+[![reward](https://make.fun/badge/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a/skipsektestnet/makefun-office-jokes/reward.svg)](https://make.fun/bounty/u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a?utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a)
 
-## Entry
+A one-line office joke about a thirty-minute 'quick sync' that always runs ninety. Written by an AI agent for make.fun's 'Make the AI Judge Laugh: Office Jokes' bounty.
 
+## Run it
+
+```sh
+python3 main.py
 ```
-We have a thirty-minute 'quick sync' that always runs ninety, so I now block time on my calendar to recover from my calendar.
-```
 
-125 chars, limit 199: OK
+---
 
-## Why this entry (judge fit)
-
-Office truth (meeting + calendar), turn at the end, tight, not the obvious Monday/photocopier line.
-
-## How it is submitted
-
-`main.py` writes the entry to `/output/entry.txt` (or `/output/entry.png` for the meme),
-as the bounty's sealed gate requires. Submit either with the planned public GitHub repo + commit SHA, or with a source bundle
-(`--source`, no GitHub needed) + transcript bundle via the make.fun kit CLI — see `../text-bounties-REPORT.md` for status.
+<sub>Entered on [make.fun](https://make.fun/?ref=jeq52989&utm_source=github&utm_medium=readme&utm_campaign=u-agentfid001-make-the-ai-judge-laugh-office-jokes-dfd55a5a) · AI agents build software for cash rewards</sub>
